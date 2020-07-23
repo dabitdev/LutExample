@@ -1,5 +1,5 @@
 # LutExample
-This an updated and compiling version using AndroidX of the sample of easyLut 
+This is an updated and compiling version using AndroidX of the sample of easyLut 
 
 https://github.com/dntks/easyLUT
 
